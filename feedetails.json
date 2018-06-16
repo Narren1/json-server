@@ -1,0 +1,1953 @@
+{
+  "contentId": "worksheet-G203propMgmtFee",
+  "contentType": "worksheet",
+  "worksheetId": "G203propMgmtFee",
+  "header": {
+    "interimAnalysis": "InterimIndicator",
+    "print": "_data_BG65",
+    "basis": ["_G203propMgmtFee_M4", "_G203propMgmtFee_M5"],
+    "exceptions": "_G203propMgmtFee_I5",
+    "open": "_G203propMgmtFee_K5",
+    "materiality": [
+      "Materiality_Planning",
+      "ScopePMF1",
+      "_G203propMgmtFee_K8",
+      "ScopePMF2"
+    ],
+    "signoff": {
+      "preparer": {
+        "name": "",
+        "diag": "",
+        "signoff": "soiprep44",	
+        "type": "SheetSignoff"
+      },
+      "fairness": {
+        "name": "",
+        "diag": "",
+        "signoff": "soirev44",
+        "type": "SheetSignoff"
+      },
+      "detail": {
+        "name": "",
+        "diag": "",
+        "signoff": "sodprep44",
+        "type": "SheetSignoff"
+      },
+      "partner": {
+        "name": "",
+        "diag": "",
+        "signoff": "sodrev44",
+        "type": "SheetSignoff"
+      }
+    }
+  },
+  "topNote":"N7",
+  "trialBalance": {
+    "topHeader": {
+      "annualize": "",
+      "trialBalance": "",
+      "e": "C9",
+      "c": "",
+      "v": "",
+      "r": "",
+      "f": "",
+      "paje": "",
+      "cyUnadjusted": "_G203propMgmtFee_K9",
+      "cyAdjustments": "",
+      "cyReport": "_G203propMgmtFee_M9",
+      "pyUnadjusted": "_G203propMgmtFee_N9",
+      "pyAdjustments": "",
+      "pyReport": "_G203propMgmtFee_P9",
+      "change": "",
+      "per": "",
+      "Increases": "S9",
+      "decreases": "T9"
+    },
+    "header": "A10",
+    "columns": [
+      {
+        "key": "trialBalance",
+        "dispayName": "Liabilities"
+      },
+      {
+        "key": "e",
+        "dispayName": "E"
+      },
+      {
+        "key": "c",
+        "dispayName": "C"
+      },
+      {
+        "key": "v",
+        "dispayName": "V"
+      },
+      {
+        "key": "r",
+        "dispayName": "R"
+      },
+      {
+        "key": "f",
+        "dispayName": "F"
+      },
+      {
+        "key": "paje",
+        "dispayName": "PAJE"
+      },
+
+      {
+        "key": "cyUnadjusted",
+        "dispayName": "C/Y-Unadjusted"
+      },
+      {
+        "key": "cyAdjustments",
+        "dispayName": "C/Y-Adjustments"
+      },
+      {
+        "key": "cyReport",
+        "dispayName": "C/Y-Report"
+      },
+      {
+        "key": "pyUnadjusted",
+        "dispayName": "P/Y-Unadjusted"
+      },
+      {
+        "key": "pyAdjustments",
+        "dispayName": "P/Y-Adjustments"
+      },
+      {
+        "key": "pyReport",
+        "dispayName": "P/Y-Report"
+      },
+      {
+        "key": "change",
+        "dispayName": "Change"
+      },
+      {
+        "key": "per",
+        "dispayName": "%"
+      },
+      {
+        "key": "Increases",
+        "dispayName": "Increases"
+      },
+      {
+        "key": "decreases",
+        "dispayName": "Decreases"
+      }
+    ],
+    "groups": [
+      {
+        "name": "",
+        "rows": [
+          {
+            "annualize": {
+              "text": ""
+              
+              
+            },
+            "trialBalance": "_G203propMgmtFee_B12",
+            "e": "_G203propMgmtFee_C12",
+            "c": "_G203propMgmtFee_D12",
+            "v": "_G203propMgmtFee_E12",
+            "r": "_G203propMgmtFee_F12",
+            "f": "_G203propMgmtFee_G12",
+            "paje": "paje_20085",
+
+            "cyUnadjusted": "_G203propMgmtFee_K12",
+            "cyAdjustments": "_G203propMgmtFee_L12",
+            "cyReport": "_G203propMgmtFee_M12",
+            "pyUnadjusted": "YR1U20085",
+            "pyAdjustments": "_G203propMgmtFee_O12",
+            "pyReport": "YR1R20085  ",
+            "change": "_G203propMgmtFee_Q12",
+            "per": "_G203propMgmtFee_R12",
+            "Increases": "_G203propMgmtFee_S12",
+            "decreases": ""
+          }
+         
+          
+        ]
+      }
+    ]
+  },
+  "trialBalance1": {
+    "topHeader": {
+      "annualize": "",
+      "trialBalance": "",
+      "e": "",
+      "c": "",
+      "v": "",
+      "r": "",
+      "f": "",
+      "paje": "",
+      "cyUnadjusted": "",
+      "cyAdjustments": "",
+      "cyReport": "",
+      "pyUnadjusted": "",
+      "pyAdjustments": "",
+      "pyReport": "",
+      "change": "",
+      "per": "",
+      "Increases": "",
+      "decreases": ""
+    },
+    "columns": [
+      {
+        "key": "trialBalance",
+        "dispayName": "Employee costs"
+      },
+      {
+        "key": "e",
+        "dispayName": ""
+      },
+      {
+        "key": "c",
+        "dispayName": ""
+      },
+      {
+        "key": "v",
+        "dispayName": ""
+      },
+      {
+        "key": "r",
+        "dispayName": ""
+      },
+      {
+        "key": "f",
+        "dispayName": ""
+      },
+      {
+        "key": "paje",
+        "dispayName": ""
+      },
+
+      {
+        "key": "cyUnadjusted",
+        "dispayName": ""
+      },
+      {
+        "key": "cyAdjustments",
+        "dispayName": ""
+      },
+      {
+        "key": "cyReport",
+        "dispayName": ""
+      },
+      {
+        "key": "pyUnadjusted",
+        "dispayName": ""
+      },
+      {
+        "key": "pyAdjustments",
+        "dispayName": ""
+      },
+      {
+        "key": "pyReport",
+        "dispayName": ""
+      },
+      {
+        "key": "change",
+        "dispayName": ""
+      },
+      {
+        "key": "per",
+        "dispayName": ""
+      },
+      {
+        "key": "Increases",
+        "dispayName": ""
+      },
+      {
+        "key": "decreases",
+        "dispayName": ""
+      }
+    ],
+    "groups": [
+      {
+        "name": "",
+        "rows": [
+          {
+            "annualize": {
+              "text": "Annualize",
+              "input": "abtn52040",
+              "type": "boolean"
+            },
+            "trialBalance": "_G203propMgmtFee_B14",
+            "e": "_G203propMgmtFee_C14",
+            "c": "_G203propMgmtFee_D14",
+            "v": "_G203propMgmtFee_E14",
+            "r": "_G203propMgmtFee_F14",
+            "f": "_G203propMgmtFee_G14",
+            "paje": "paje_52040",
+
+            "cyUnadjusted": "_G203propMgmtFee_K14",
+            "cyAdjustments": "_G203propMgmtFee_L14",
+            "cyReport": "_G203propMgmtFee_M14",
+            "pyUnadjusted": "YR1U52040",
+            "pyAdjustments": "_G203propMgmtFee_O14",
+            "pyReport": "YR1R52040",
+            "change": "_G203propMgmtFee_Q14",
+            "per": "_G203propMgmtFee_R14",
+            "Increases": "_G203propMgmtFee_S14",
+            "decreases": "_G203propMgmtFee_T14"
+          }
+        ]
+        
+      }
+    ]
+  },
+  "initialInput": {
+    "header":"A17",
+    "questions":[
+        {
+          "question": "B19",
+          "dataInput": {
+            "name": "Input_Indicator442",
+            "diag": "_G203propMgmtFee_C19",
+            "signoff": "Data_Input442",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator442",
+            "diag": "_G203propMgmtFee_H19",
+            "signoff": "Data_Check442",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit3",
+            "type": "percent"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N19"
+        },
+        {
+          "question": "B21",
+          "dataInput": {
+            "name": "Input_Indicator443",
+            "diag": "_G203propMgmtFee_C21",
+            "signoff": "Data_Input443",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator443",
+            "diag": "_G203propMgmtFee_H21",
+            "signoff": "Data_Check443",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit4",
+            "type": "integer"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N21"
+        },
+       
+        {
+          "question": "B23",
+          "dataInput": {
+            "name": "Input_Indicator444",
+            "diag": "_G203propMgmtFee_C23",
+            "signoff": "Data_Input444",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator444",
+            "diag": "_G203propMgmtFee_H23",
+            "signoff": "Data_Check444",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit7",
+            "type": "integer"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N23"
+        },
+        
+        {
+          "question": "B25",
+          "dataInput": {
+            "name": "Input_Indicator445",
+            "diag": "_G203propMgmtFee_C25",
+            "signoff": "Data_Input445",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator445",
+            "diag": "_G203propMgmtFee_H25",
+            "signoff": "Data_Check445",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit5",
+            "type": "yesNoClear"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N25"
+        },
+        {
+          "question": "B27",
+          "dataInput": {
+            "name": "Input_Indicator841",
+            "diag": "_G203propMgmtFee_C27",
+            "signoff": "Data_Input841",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator841",
+            "diag": "_G203propMgmtFee_H27",
+            "signoff": "Data_Check841",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit8",
+            "type": "yesNoClear"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N27"
+        },
+        {
+          "question": "B29",
+          "dataInput": {
+            "name": "Input_Indicator842",
+            "diag": "_G203propMgmtFee_C29",
+            "signoff": "Data_Input842",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator842",
+            "diag": "_G203propMgmtFee_H29",
+            "signoff": "Data_Check842",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit9",
+            "type": "yesNoClear"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N29"
+        },
+        {
+          "question": "B31",
+          "dataInput": {
+            "name": "Input_Indicator843",
+            "diag": "_G203propMgmtFee_C31",
+            "signoff": "Data_Input843",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator843",
+            "diag": "_G203propMgmtFee_H31",
+            "signoff": "Data_Check843",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit10",
+            "type": "yesNoClear"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N31"
+        },
+        {
+          "question": "B33",
+          "dataInput": {
+            "name": "Input_Indicator844",
+            "diag": "_G203propMgmtFee_C33",
+            "signoff": "Data_Input844",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator844",
+            "diag": "_G203propMgmtFee_H33",
+            "signoff": "Data_Check844",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "InUnit11",
+            "type": "yesNoClear"
+          },
+          "workPaper": {
+          "name": "",
+          "type": ""
+        },
+        "comment": {
+          "name": "",
+          "type": ""
+        },
+          "diag": "_G203propMgmtFee_N33"
+        }
+      ]
+    },
+  "section": [
+    {
+          "text": "Q21",
+          "input": {
+            "name": "HUD",
+            "type": "boolean"
+          },
+          "diag": ""
+        },
+    {
+      "title": "A10",
+      "annualize": {
+        "text": "B14",
+        "input": {
+          "name": "abtn52040",
+          "type": "boolean"
+        },
+        "diag": ""
+      }
+    },
+    {
+      "title": "A17"
+    
+    },
+    {
+      "title": "A40",
+      "calculations": [
+        {
+          "text": "B43",
+          "dataInput": {
+            "name": "Input_Indicator846",
+            "diag": "_G203propMgmtFee_C43",
+            "signoff": "Data_Input846",
+            "type": "cellSignoff"
+          },
+          "dataCheck": {
+            "name": "Check_Indicator846",
+            "diag": "_G203propMgmtFee_H43",
+            "signoff": "Data_Check846",
+            "type": "cellSignoff"
+          },
+          "input": {
+            "name": "AI_mgmt_fee_1",
+            "type": "boolean"
+          },
+          "diag": "_G203propMgmtFee_K43"
+        },
+        {
+          "text": "B46",
+          "input": {
+            "name": ["_G203propMgmtFee_G46", "_G203propMgmtFee_H46"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I46"
+        },
+        {
+          "text": "B47",
+          "input": {
+            "name": ["_G203propMgmtFee_G47", "_G203propMgmtFee_H47"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I47"
+        },
+        {
+          "text": "B48",
+          "input": {
+            "name": ["_G203propMgmtFee_G48", "_G203propMgmtFee_H48"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I48"
+        },
+        {
+          "text": "B49",
+          "input": {
+            "name": ["_G203propMgmtFee_G49", "_G203propMgmtFee_H49"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I49"
+        },
+        {
+          "text": "B50",
+          "input": {
+            "name": ["_G203propMgmtFee_G50", "_G203propMgmtFee_H50"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I50"
+        },
+        {
+          "text": "B51",
+          "input": {
+            "name": ["_G203propMgmtFee_G51", "_G203propMgmtFee_H51"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I51"
+        },
+        {
+          "text": "B52",
+          "input": {
+            "name": ["_G203propMgmtFee_G52", "_G203propMgmtFee_H52"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I52"
+        },
+        {
+          "text": "B54",
+          "input": {
+            "name": ["_G203propMgmtFee_G54", "_G203propMgmtFee_H54"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I53"
+        },
+        {
+          "text": "B55",
+          "input": {
+            "name": ["_G203propMgmtFee_G55", "_G203propMgmtFee_H55"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I54"
+        },
+        {
+          "text": "B56",
+          "input": {
+            "name": ["_G203propMgmtFee_G56", "_G203propMgmtFee_H56"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I55"
+        },
+        {
+          "text": "B57",
+          "input": {
+            "name": ["_G203propMgmtFee_G57", "_G203propMgmtFee_H57"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I56"
+        },
+        {
+          "text": "B58",
+          "input": {
+            "name": ["_G203propMgmtFee_G58", "_G203propMgmtFee_H58"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I57"
+        },
+        {
+          "text": "B59",
+          "input": {
+            "name": ["_G203propMgmtFee_G59", "_G203propMgmtFee_H59"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I58"
+        },
+        {
+          "text": "B60",
+          "input": {
+            "name": ["_G203propMgmtFee_G60", "_G203propMgmtFee_H60"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I59"
+        },
+        {
+          "text": "B61",
+          "input": {
+            "name": ["_G203propMgmtFee_G61", "_G203propMgmtFee_H61"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I60"
+        },
+        {
+          "text": "B62",
+          "input": {
+            "name": ["_G203propMgmtFee_G62", "_G203propMgmtFee_H62"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I61"
+        },
+        {
+          "text": "B63",
+          "input": {
+            "name": ["_G203propMgmtFee_G63", "_G203propMgmtFee_H63"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I62"
+        },
+        {
+          "text": "B64",
+          "input": {
+            "name": ["_G203propMgmtFee_G64", "_G203propMgmtFee_H64"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I63"
+        },
+        {
+          "text": "B65",
+          "input": {
+            "name": ["_G203propMgmtFee_G65", "_G203propMgmtFee_H65"],
+            "type": "tbd"
+          },
+          "diag": "_I203propMgmtFee_I64"
+        }
+      ]
+    }
+  ],
+  "management":{
+  "headers": [
+        {
+          "text": "",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "Receivable",
+          "text7": "Less",
+          "text8": ""
+
+        },
+        {
+          "text": "",
+          "text1": "",
+          "text2": "Status if",
+          "text3": "Recorded",
+          "text4": "Excluded",
+          "text5": "Accrual base",
+          "text6": "Decrease",
+          "text7": "Receivable",
+          "text8": "Cash Base"
+
+        },
+        {
+          "text": "",
+          "text1": "IN/OUT",
+          "text2": "Excluded",
+          "text3": "Amount",
+          "text4": "Amount",
+          "text5": "Amount",
+          "text6": "(Inncrease)",
+          "text7": "write-off's",
+          "text8": "Amount"
+
+        }
+      ],
+      "details": [
+        {
+          "text": "Management fee base - percentage of rental revenue",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": ""
+
+        },
+        {
+          "text": "Gross potential rents ,including tennt assistance payments",
+          "text1":"",
+          "text2": "Excluded",
+          "text3": "545,749",
+          "text4": "100,000",
+          "text5": "645,749",
+          "text6": "-",
+          "text7": "100.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "Less unit vacancies",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "382,306",
+          "text4": "(100,000)",
+          "text5": "282,306",
+          "text6": "-",
+          "text7": "100.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "Less rental concessions",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "13,506",
+          "text4": "-",
+          "text5": "13,506",
+          "text6": "-",
+          "text7": "100.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "Parking rents",
+          "text1": {
+            "name":"IN",
+            "type":"Toggle"
+
+          },
+          "text2": "",
+          "text3": "13,506",
+          "text4": "-",
+          "text5": "13,506",
+          "text6": "-",
+          "text7": "100.00%",
+          "text8": ""
+
+        },
+        {
+          "text": " Less Parking vacancies",
+          "text1": {
+            "name":"IN",
+            "type":"Toggle"
+
+          },
+          "text2": "",
+          "text3": "941,561",
+          "text4": "-",
+          "text5": "941,561",
+          "text6": "-",
+          "text7": "100.00%",
+          "text8": "660,582"
+
+        },
+        {
+          "text": "Less bad debt expense",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": ""
+
+        },
+        {
+          "text": "Less rent - free unit cost",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": ""
+
+        },
+        {
+          "text": "Net rental income",
+          "text1": "",
+          "text2": "",
+          "text3": "382,306",
+          "text4": "(100,000)",
+          "text5": "282,306",
+          "text6": "-",
+          "text7": "1000.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "commercial rents",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "13,506",
+          "text4": "-",
+          "text5": "13,506",
+          "text6": "-",
+          "text7": "1000.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "Less commercial vacancies",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "13,506",
+          "text4": "-",
+          "text5": "13,506",
+          "text6": "-",
+          "text7": "1000.00%",
+          "text8": ""
+
+        },
+        {
+          "text": "Less bad debt expense-commercial leases",
+          "text1": {
+            "name":"OUT",
+            "type":"Toggle"
+
+          },
+          "text2": "Excluded",
+          "text3": "941,561",
+          "text4": "-",
+          "text5": "941,561",
+          "text6": "-",
+          "text7": "1000.00%",
+          "text8": "660,582"
+
+        }
+
+
+
+      ],
+
+      "allowanceheader":"Allowance For Doubtful Accounts Activity",
+      "accountsheader":"Accounts Recivable- Tenants Activity",
+      "allowance":[
+        {
+          "text": {
+            "value": "Begining allowance",
+            "underLine":false
+          },
+          "col": {
+            "value": "-",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Bad debt expense",
+            "underLine":false
+          },
+          "col": {
+            "value": "1,971",
+
+            "isValueunderLine":false
+            
+          },
+          "col1": {
+            "value": "Accural - Options"
+            
+          }
+          
+        },
+       
+         {
+          "text": {
+            "value": "Write - Offs",
+            "underLine":false
+          },
+          "col": {
+            "value": "23,229",
+
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Ending allowance",
+            "underLine":false
+          },
+          "col": {
+            "value": "25,200",
+
+            "isValueunderLine":true,
+            "isbold":true
+            
+          }
+        }
+
+
+      ],
+      "accounts":[
+        {
+          "text": {
+            "value": "Begining",
+            "underLine":false
+          },
+          "col": {
+            "value": "-",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Less ending",
+            "underLine":false
+          },
+          "col": {
+            "value": "(150,719)",
+
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Gross (increase)",
+            "underLine":false
+          },
+          "col": {
+            "value": "(150,719)",
+
+            "isValueunderLine":false
+            
+          },
+          "col1": {
+            "value": "Cash - Fixed"
+
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Less Write - Offs",
+            "underLine":false
+          },
+          "col": {
+            "value": "23,229",
+
+            "isValueunderLine":true
+            
+          }
+          
+        },
+        {
+          "text": {
+            "value": "Net (increase)",
+            "underLine":false
+          },
+          "col": {
+            "value": "(127,490)",
+
+            "isValueunderLine":true,
+            "isbold":true
+            
+          }
+          
+        }
+
+
+
+
+
+
+      ],
+      "OccupiedUnit": [
+        {
+          "text": {
+            "value": "Management fee base - per occupired unit",
+            "underLine":true,
+            "isbold":true
+          },
+          "col": {
+            "value": "",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": ""
+           
+
+          },
+          "col": {
+            "value": ""
+
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Total unit rents",
+            "underLine":false,
+            "isGap":true
+
+          },
+          "col": {
+            "value": "2,160,321",
+
+            "isValueunderLine":false,
+            "isGap":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Total tenant rents",
+            "underLine":false
+          },
+          "col": {
+            "value": "2,256,733",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Number of months(See 10-1_ Revenues when < 12 months)",
+            "underLine":false
+          },
+          "col": {
+            "value": "12",
+
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Caluclated amount of monthly tenant rent",
+            "underLine":false
+          },
+          "col": {
+            "value": "1888,061",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Number of units",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "10",
+
+            "isValueunderLine":true
+            
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Average unit rents per unit per month",
+            "underLine":false
+          },
+          "col": {
+            "value": "18,806",
+
+            "isValueunderLine":true
+            
+          }
+        }
+        
+      ],
+      "Perunit": [
+        {
+          "text": {
+            "value": "Management fee base - per  unit",
+            "underLine":true,
+            "isbold":true
+          },
+          "col": {
+            "value": "Fee Base",
+
+            "isValueunderLine":true,
+            "isbold":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": ""
+          
+          },
+          "col": {
+            "value": ""
+
+            
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Number of Units",
+            "underLine":false,
+            "isGap":true
+          },
+          "col": {
+            "value": "10",
+
+            "isValueunderLine":false,
+            "isGap":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Number of months(see 10-1_ Renvenues when < 12 months)",
+            "underLine":false
+          },
+          "col": {
+            "value": "12",
+
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Total Units",
+            "underLine":false
+          },
+          "col": {
+            "value": "120",
+
+            "isValueunderLine":true
+            
+          }
+        }
+      ]
+
+    },
+  "procedures": [
+
+    {
+      "procedureText": "B110",
+      "assertionE": true,
+      "assertionC": true,
+      "assertionV": true,
+      "assertionR": false,
+      "assertionF": true,
+      "details": [
+        {
+          "text": {
+            "value": "Basis of calculation",
+            "underLine":true
+          },
+          "col": {
+            "value": "Need inputs",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Expense constraints - percentage management fees",
+            "underLine":true
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense is limited to cash rents",
+            "underLine":false
+          
+          },
+          "col": {
+            "value": "No expense constraint noted",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Regulatory constraints",
+            "underLine":true
+           
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense is subject to HUD",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": " Expense not subject to HUD",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense overage represents a compliance issue",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "Expense overage not subjected to compliance",
+            "underisValueunderLineLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Expense estimate based on basis of calculation",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "Fee Estimate",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA-Method not selected",
+            "underLine":false
+           
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueNotunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA-Method not selected",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueNotunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA - percentage not used",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA - Rate per unit not used",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Estimated management fee expense based on method and applicable rate",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Recoreded amount: 52040- property management fee",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Difference - over (under) estimate",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          },
+          "col1": {
+            "value": "Difference subject to threshold"
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Threshold",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value":"Difference in excess of threshold",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        }
+
+ 
+      ],
+     
+      "resolved": "_G203propMgmtFee_I110",
+      "result": "_G203propMgmtFee_K110",
+      "difference": "_G203propMgmtFee_L110",
+      "suggested": "_G203propMgmtFee_M110",
+      "diag": "",
+      "dataInput": {
+        "name": "Input_Indicator446",
+        "diag": "_G203propMgmtFee_H117",
+        "signoff": "Data_Input446",
+        "type": "cellSignoff"
+      },
+      "dataCheck": {
+        "name": "Check_Indicator446",
+        "diag": "_G203propMgmtFee_B117",
+        "signoff": "Data_Check446",
+        "type": "cellSignoff"
+      },
+
+      "comment": {
+        "name": "rcunitrel19",
+        "type": "comment"
+      },
+      "resolutions": [
+        {
+          "resolutionText": "B113",
+          "input": {
+            "name": "AEUnit19",
+            "type": "integer"
+          },
+          "workPaper": {
+            "name": "AEwpref95",
+            "type": "wpref"
+          },
+          "difference": "_G203propMgmtFee_L113",
+          "suggested": "_G203propMgmtFee_M113"
+        }
+      ]
+    },
+    {
+      "procedureText": "B148",
+      "assertionE": false,
+      "assertionC": false,
+      "assertionV": false,
+      "assertionR": true,
+      "assertionF": true,
+      "details": [
+        {
+          "text": {
+            "value": "Basis of calculation",
+            "underLine":true
+          },
+          "col": {
+            "value": "Need inputs",
+
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Expense constraints - percentage management fees",
+            "underLine":true
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense is limited to cash rents",
+            "underLine":false
+          
+          },
+          "col": {
+            "value": "No expense constraint noted",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Regulatory constraints",
+            "underLine":true
+           
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense is subject to HUD",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": " Expense not subject to HUD",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Whether expense overage represents a compliance issue",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "Expense overage not subjected to compliance",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Actual payment of management fee",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "Fee Paid",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "52040-property management fee",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Plus beginning payable",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Less ending payable",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Amount paid",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": ""
+            
+           
+          },
+          "col": {
+            "value": ""
+            
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Expected management fee payment",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "",
+            "isValueunderLine":false
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA-Method not selected",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueNotunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA-Method not selected",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueNotunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA - percentage not used",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "NA - Rate per unit not used",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Estimated amount of management fee expense payable",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Acutal payment ofmanagement fee",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Payment over (under) estimate",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          },
+          "col1":{
+            "value": "Note - over payments are subject to threshold"
+          }
+        },
+        {
+          "text": {
+            "value": "Threshold",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Payment in excess of threshold",
+            "underLine":false
+           
+          },
+          "col": {
+            "value": "-",
+            "isValueunderLine":true
+            
+          },
+          "col1":{
+            "value": "Note - Payment shortfalls are not exceptions"
+          }
+        }
+
+      ],
+
+      "resolved": "_G203propMgmtFee_I148",
+      "result": "_G203propMgmtFee_K148",
+      "difference": "_G203propMgmtFee_L148",
+      "suggested": "_G203propMgmtFee_M148",
+      "diag": "",
+      "dataInput": {
+        "name": "Input_Indicator447",
+        "diag": "_G203propMgmtFee_H155",
+        "signoff": "Data_Input447",
+        "type": "cellSignoff"
+      },
+      "dataCheck": {
+        "name": "Check_Indicator447",
+        "diag": "_G203propMgmtFee_B155",
+        "signoff": "Data_Check447",
+        "type": "cellSignoff"
+      },
+
+      "comment": {
+        "name": "rcunitrel20",
+        "type": "comment"
+      },
+      "resolutions": [
+        {
+          "resolutionText": "B148",
+          "input": {
+            "name": "AEUnit20",
+            "type": "integer"
+          },
+          "workPaper": {
+            "name": "AEwpref96",
+            "type": "wpref"
+          },
+          "difference": "_G203propMgmtFee_L148",
+          "suggested": "_G203propMgmtFee_M148"
+        }
+      ]
+    },
+    {
+      "procedureText": "B165",
+      "assertionE": true,
+      "assertionC": true,
+      "assertionV": false,
+      "assertionR": false,
+      "assertionF": true,
+      "details": [
+        {
+          "text": {
+            "value": "20085-Accured property management fee payable",
+            "underLine":false
+          },
+          "col": {
+            "value": "-",
+
+            "isValueunderLine":true
+            
+          },
+          "col1": {
+            "value": ""
+
+           
+            
+          }
+
+        },
+        {
+          "text": {
+            "value": "Threshold",
+            "underLine":false
+          },
+          "col": {
+            "value": "-",
+
+            "isValueunderLine":true
+            
+          }
+        },
+        {
+          "text": {
+            "value": "Over (Under)",
+            "underLine":false
+          },
+          "col": {
+            "value": "-",
+
+            "isValueunderLine":true
+            
+          }
+        }
+      ],
+      "resolved": "_G203propMgmtFee_I165",
+      "result": "_G203propMgmtFee_K165",
+      "difference": "_G203propMgmtFee_L165",
+      "suggested": "_G203propMgmtFee_M165",
+      "diag": "",
+      "dataInput": {
+        "name": "Input_Indicator448",
+        "diag": "_G203propMgmtFee_H172",
+        "signoff": "Data_Input448",
+        "type": "cellSignoff"
+      },
+      "dataCheck": {
+        "name": "Check_Indicator448",
+        "diag": "_G203propMgmtFee_B172",
+        "signoff": "Data_Check448",
+        "type": "cellSignoff"
+      },
+
+      "comment": {
+        "name": "rcunitrel43",
+        "type": "comment"
+      },
+      "resolutions": [
+        {
+          "resolutionText": "B168",
+          "input": {
+            "name": "AEUnit34",
+            "type": "integer"
+          },
+          "workPaper": {
+            "name": "AEwpref357",
+            "type": "wpref"
+          },
+          "difference": "_G203propMgmtFee_L168",
+          "suggested": "_G203propMgmtFee_M168"
+        }
+      ]
+    }
+  ],
+  "adjustments":[
+      {
+        "text":"B37",
+        "value1":"_G203propMgmtFee_K37",
+        "value2":"_G203propMgmtFee_L37",
+        "value3":"_G203propMgmtFee_M37",
+        "value4":"_G203propMgmtFee_N37",
+        "value5":"_G203propMgmtFee_O37",
+        "value6":"_G203propMgmtFee_P37"
+      },
+      {
+        "text":"B38",
+        "value1":"_G203propMgmtFee_K38",
+        "value2":"_G203propMgmtFee_L38",
+        "value3":"_G203propMgmtFee_M38",
+        "value4":"_G203propMgmtFee_N38",
+        "value5":"_G203propMgmtFee_O38",
+        "value6":"_G203propMgmtFee_P38"
+      }
+      
+    ]
+}
+
